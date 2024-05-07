@@ -1,0 +1,11 @@
+1 > Open Command Promt with Run With Admistration.
+
+2 > Type "diskpart" to select HDD.
+
+3 > Type "list disk" to see how many disk.
+
+4 > Type "select disk 0/select disk 1/select disk 3(whatever you want to select)" to select any heard disk want to format.
+
+5 > Type "list disk" again because to see disk is selected or not.
+
+6 > Type "clean" after a few moment disk will be formated.
